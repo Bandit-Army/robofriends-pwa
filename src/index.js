@@ -36,5 +36,5 @@ root.render(
 //   </Provider>,
 //   document.getElementById('root')
 // );
-navigator.serviceWorker.register();
+serviceWorker.register();
 
